@@ -1,0 +1,2 @@
+# Crimedetection
+It is a multi-label classification problem  Multi-label Classification: Multilabel classification assigns to each sample a set of target labels. This can be thought as predicting properties of a data-point that are not mutually exclusive, such as topics that are relevant for a document.There are crime charges(labels) for every article description in the dataset. Our tasks is find crime charges for future descriptions.  Credit: http://scikit-learn.org/stable/modules/multiclass.html
